@@ -5,7 +5,7 @@
 -->
 Hey! I'm Phil. I'm a software developer in Denver, Colorado.
 
-- I’m currently attending Turing School of Software and Design's backend program. [turing.edu](https://turing.edu)
+- I’m currently attending [Turing School](https://turing.io/) of Software and Design's backend program.
 - I’m currently learning backend engineering, and primarily working in Ruby on Rails!
 - I’m looking to collaborate on Open Source projects
 - How to reach me: [hi@philmccarthy.dev](mailto:hi@philmccarthy.dev)
