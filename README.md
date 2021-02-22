@@ -3,7 +3,7 @@
 <!--
 **philmccarthy/philmccarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hey! I'm Phil. I'm a software developer in Denver, Colorado.
+I'm Phil. I'm a software developer in Denver, Colorado.
 
 - I’m currently attending [Turing School](https://turing.io/) of Software and Design's backend program.
 - I’m currently learning backend engineering, and primarily working in Ruby on Rails!
