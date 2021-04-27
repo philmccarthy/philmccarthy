@@ -11,4 +11,6 @@ I'm Phil. I'm a software developer in Denver, Colorado.
 - How to reach me: [hi@philmccarthy.dev](mailto:hi@philmccarthy.dev)
 - Pronouns: He/Him
 
-![Phils's GitHub stats](https://github-readme-stats.vercel.app/api?username=philmccarthy&show_icons=true&hide=stars&theme=merko)
+![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=philmccarthy&show_icons=true&hide=stars&theme=merko)
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=philmcc2631&cover_image=true&theme=default)
