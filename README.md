@@ -10,6 +10,8 @@ I'm Phil (he/him). I'm a software developer in Denver, Colorado.
 - I’m a graduate of [Turing School](https://turing.io/)'s backend engineering program.
 - How to reach me: email me at hi (at) philmccarthy.dev
 
+<hr>
+
 #### I'm best at:
 <span>
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -31,7 +33,9 @@ I'm Phil (he/him). I'm a software developer in Denver, Colorado.
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-</span></br>
+</span>
+
+<hr>
 
 ![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=philmccarthy&show_icons=true&hide=stars&theme=merko)
 
