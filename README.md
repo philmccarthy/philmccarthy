@@ -1,3 +1,9 @@
+<span>
+  <a href="https://www.linkedin.com/in/pjmcc/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://philmccarthy.dev"><img alt="personal site badge" src="https://img.shields.io/badge/visit-philmccarthy.dev-blue?style=for-the-badge"/></a>
+  <a href="https://philmccarthy.dev/resume"><img alt="phil mccarthy's resume" src="https://img.shields.io/badge/view%20my-resume-blue?style=for-the-badge"/></a>
+</span>
+
 ### Hey there!
 
 <!--
@@ -5,9 +11,9 @@
 -->
 I'm Phil (he/him). I'm a software developer in Denver, Colorado.
 
-- [Find me on LinkedIn](https://www.linkedin.com/in/pjmcc/)
+- I'm currently looking for my next role! Feel free to [book a meeting on my calendar](https://calendly.com/phillipmccarthy/30m) if you'd like to chat
 - I’m looking to collaborate on Open Source projects
-- I’m a graduate of [Turing School](https://turing.io/)'s backend engineering program.
+- I’m a graduate of [Turing School](https://turing.io/)'s backend engineering program
 - How to reach me: hi (at) philmccarthy.dev
 
 <hr>
