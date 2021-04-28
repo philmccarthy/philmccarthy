@@ -8,7 +8,7 @@ I'm Phil (he/him). I'm a software developer in Denver, Colorado.
 - [Find me on LinkedIn](https://www.linkedin.com/in/pjmcc/)
 - I’m looking to collaborate on Open Source projects
 - I’m a graduate of [Turing School](https://turing.io/)'s backend engineering program.
-- How to reach me: email me at hi (at) philmccarthy.dev
+- How to reach me: hi (at) philmccarthy.dev
 
 <hr>
 
