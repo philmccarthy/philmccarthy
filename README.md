@@ -6,9 +6,6 @@
 
 ### Hey there!
 
-<!--
-**philmccarthy/philmccarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 I'm Phil (he/him). I'm a software developer in Denver, Colorado.
 
 - I'm currently looking for my next role! Feel free to [book a meeting on my calendar](https://calendly.com/phillipmccarthy/30m) if you'd like to chat
@@ -35,7 +32,6 @@ I'm Phil (he/him). I'm a software developer in Denver, Colorado.
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 </span>
 
 #### Tools I use and love:
