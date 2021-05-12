@@ -1,7 +1,7 @@
 <span>
   <a href="https://www.linkedin.com/in/pjmcc/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://philmccarthy.dev"><img alt="personal site badge" src="https://img.shields.io/badge/visit-philmccarthy.dev-blue?style=for-the-badge"/></a>
-  <a href="https://philmccarthy.dev/resume"><img alt="phil mccarthy's resume" src="https://img.shields.io/badge/view%20my-resume-blue?style=for-the-badge"/></a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vSgp8H_ZyDweluSqf1sl_qk7eWDjbfowtKSlNUzDEZRYLSfjP99KghPRcqgT52hT3-_YY6bjvw3Hlxm/pub"><img alt="phil mccarthy's resume" src="https://img.shields.io/badge/view%20my-resume-blue?style=for-the-badge"/></a>
 </span>
 
 ### Hey there!
