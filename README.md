@@ -6,9 +6,8 @@
 
 ### Hey there!
 
-I'm Phil (he/him). I'm a software developer in Denver, Colorado.
+I'm Phil (he/him). I'm a software developer for [Youth on Course](https://youthoncourse.org/).
 
-- I'm currently looking for my next role! Feel free to [book a meeting on my calendar](https://calendly.com/phillipmccarthy/30m) if you'd like to chat
 - I’m looking to collaborate on Open Source projects
 - I’m a graduate of [Turing School](https://turing.edu/)'s backend engineering program
 - How to reach me: hi (at) philmccarthy.dev
