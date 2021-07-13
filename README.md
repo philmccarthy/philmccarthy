@@ -6,7 +6,7 @@
 
 ### Hey there!
 
-I'm Phil (he/him). I'm a software developer for [Youth on Course](https://youthoncourse.org/).
+I'm Phil (he/him). I'm a software developer [VIZIO](https://vizio.com/).
 
 - I’m looking to collaborate on Open Source projects
 - I’m a graduate of [Turing School](https://turing.edu/)'s backend engineering program
