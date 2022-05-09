@@ -5,10 +5,7 @@
 
 ### Hey there!
 
-I'm Phil (he/him). I'm a software developer at [VIZIO](https://vizio.com/).
-
-- I’m a graduate of [Turing School](https://turing.edu/)'s backend engineering program
-- How to reach me: hi (at) philmccarthy.dev
+I'm Phil (he/him). I'm a software developer at Shopify and a part-time instructor at [Turing School](https://turing.edu/).
 
 <hr>
 
