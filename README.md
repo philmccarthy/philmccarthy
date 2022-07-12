@@ -5,6 +5,6 @@
 
 ### Hey there!
 
-I'm Phil (he/him). I'm a software developer at Shopify and a part-time instructor at [Turing School](https://turing.edu/).
+I'm Phil (he/him). I'm a developer at Shopify and a part-time instructor at [Turing School](https://turing.edu/).
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=philmcc2631&cover_image=true&theme=default)
