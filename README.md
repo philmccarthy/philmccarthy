@@ -9,6 +9,4 @@ I'm Phil (he/him). I'm a software developer at Shopify and a part-time instructo
 
 <hr>
 
-![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=philmccarthy&show_icons=true&hide=stars&theme=merko)
-
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=philmcc2631&cover_image=true&theme=default)
