@@ -4,4 +4,4 @@
 
 ### Hey there!
 
-I'm Phil (he/him). I'm a developer at Stitch Fix and a part-time instructor at [Turing School](https://turing.edu/).
+I'm Phil (he/him) and I'm a developer at Stitch Fix
